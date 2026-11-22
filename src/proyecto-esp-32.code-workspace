@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../proyecto-esp-32"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "esp32-1",
+			"path": "."
+		},
+		{
+			"name": "stm32-f7",
+			"path": "../stm32-f7"
+		}
+	],
+	"settings": {}
+}
